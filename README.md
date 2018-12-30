@@ -1,7 +1,13 @@
-# Lit Matching Engine
+# Matching Engine
 
-# Building 
+# Build
 
-`cmake ..`
-`make`
-`sudo make install`
+To build the project, execute
+
+```bash
+cmake ..
+make
+sudo make install
+```
+
+By Dendi Suhubdy
